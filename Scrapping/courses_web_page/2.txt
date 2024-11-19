@@ -1,0 +1,17 @@
+Descripción
+En este curso aprenderás a controlar versiones, esto en específico sobre una página web, en donde veremos en específico trabajar sobre la plataforma Github.
+Unidades de aprendizaje
+
+Terminal, Git y GitHub: identificar el proceso de creación de un repositorio remoto en GitHub para controlar las versiones de un proyecto y  publicar la página web utilizando GitHub Pages.
+Trabajo colaborativo y GitHub Pages: comprender el desarrollo colaborativo de un proyecto con Git.
+
+
+Plataformas y software
+
+Firefox
+Visual Studio code (https://code.visualstudio.com/)
+Git Bash (en caso de Windows)
+Terminal (en caso de Linux y Mac)
+Git (https://git-scm.com/downloads)
+GitHub / GitHub Pages (https://github.com/)
+Xcode (en caso de MAC para instalar y actualizar GIT) (https://imageoptim.com/changelog.html)

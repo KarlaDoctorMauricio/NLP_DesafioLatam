@@ -1,0 +1,22 @@
+Descripción
+En este curso introductorio se revisarán las herramientas básicas para el desarrollo web. Para ello, se aprenden los conceptos base de desarrollo, entornos y flujos de trabajo; y además se conocerán las buenas prácticas de desarrollo web desde la construcción hasta la puesta en marcha.
+
+Unidades de aprendizaje
+
+Introducción a HTML: conocer el contenido de un documento con HTML para definir el aspecto visual de una página web.
+Introducción a CSS: conocer el contenido de un documento con HTML y utilizar componentes CSS para definir el aspecto visual de la página web.
+Alineando contenido con flex: identificar cómo posicionar elementos en maquetas web, usando las reglas CSS necesarias para  realizar correctamente este proceso.
+Bootstrap: reconocer la construcción de una interfaz web responsiva utilizando componentes de la biblioteca Bootstrap para dar solución a un problema planteado.
+Terminal, Git y GitHub: identificar el proceso de creación de un repositorio remoto en GitHub para controlar las versiones de un proyecto y  publicar la página web utilizando GitHub Pages.
+Trabajo colaborativo y GitHub Pages: comprender el desarrollo colaborativo de un proyecto con Git.
+
+
+Plataformas y software
+
+Firefox
+Visual Studio code (https://code.visualstudio.com/)
+Git Bash (en caso de Windows)
+Terminal (en caso de Linux y Mac)
+Git (https://git-scm.com/downloads)
+GitHub / GitHub Pages (https://github.com/)
+Xcode (en caso de MAC para instalar y actualizar GIT) (https://imageoptim.com/changelog.html)

@@ -1,0 +1,18 @@
+DescripciónEl presente módulo busca que los y las estudiantes comprendan la importancia de utilizar el lenguaje Python para realizar análisis de datos más complejos que los que permite SQL, integrando las potencialidades de ambos lenguajes. Para lograrlo, se analizan y aplican diferentes herramientas y funciones de este lenguaje mediante ejemplos prácticos realizados en Jupyter Notebook, que permiten comprender el uso y verificar la utilidad de estas herramientas.Unidades de aprendizaje
+
+Conociendo Python: Utiliza herramientas, comandos y estructuras básicas de Python para la creación de programas sencillos.
+
+Tipos y estructuras de datos: Importa datos utilizando diversos métodos, considerando sus tipos y estructuras.
+
+Manipulación y transformación de datos: Manipula datos utilizando funciones y herramientas de Python y SQL.
+
+Plataformas y software
+Anaconda Python
+Jupyter Notebook
+Numpy
+Pandas
+BeautifulSoup
+pyplot
+Seaborn
+statsmodels
+scikit-learn
