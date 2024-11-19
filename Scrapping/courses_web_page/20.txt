@@ -1,5 +1,0 @@
-Aprenderás:
-✨ A configurar un proyecto desde cero en Next.js
-✨ Integrar Prisma para gestionar bases de datos
-✨ Construir una interfaz dinámica y estilizada con Shadcn/cn
-✨ Usar v0.dev para generar componentes y optimizar tu flujo de trabajo

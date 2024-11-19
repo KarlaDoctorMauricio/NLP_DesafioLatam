@@ -1,1 +1,0 @@
-En esta charla, nos sumergiremos en el fascinante mundo de las animaciones para frontend. Te mostraré algunos de los frameworks más destacados que están revolucionando la manera en que damos vida a nuestras interfaces.
