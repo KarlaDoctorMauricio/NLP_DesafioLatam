@@ -1,0 +1,8 @@
+# Ignore .env file containing sensitive credentials
+.env
+
+# Other files to ignore (optional, for example):
+__pycache__/
+*.pyc
+*.pyo
+*.db

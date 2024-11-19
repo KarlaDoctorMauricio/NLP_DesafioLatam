@@ -1,0 +1,25 @@
+DescripciónEl módulo de CSS avanzado aborda los aspectos de construcción de layouts bajo una mirada responsiva ocupando Flexbox, CSS Grid, Media queries y animaciones de CSS. Unidades de aprendizaje
+
+Flexbox: Crear diseños responsivos usando la propiedad flexbox, conociendo previamente los conceptos básicos aplicados al uso de flexbox como método de posicionamiento y creación de diseños en CSS.
+
+
+Grid: Aplicar la propiedad grid para crear layouts responsivos.
+
+
+Media Queries: Aplicar diseños responsivos haciendo uso de media queries y breakpoints.
+
+
+Animaciones con CSS: Crear transiciones, transformaciones y animaciones en CSS a un elemento HTML.
+
+Plataformas y software
+Firefox
+
+Visual Studio code (https://code.visualstudio.com/)
+Git Bash (en caso de Windows)
+Terminal (en caso de Linux y Mac)
+
+Git (https://git-scm.com/downloads)
+
+GitHub / GitHub Pages (https://github.com/)
+
+Xcode (en caso de MAC para instalar y actualizar GIT) (https://imageoptim.com/changelog.html)
