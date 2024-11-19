@@ -48,16 +48,14 @@ Code Walkthrough
 
 File Structure
 --------------
-'''
-project-directory/
-│
-├── chromedriver/                # ChromeDriver executable
-    ├──chromedriver.exe
-├── courses_web_page             # Directory with scrapping results
-├── InterestingLinks.csv         # CSV file containing URLs for scraping
-├── WebScrapping.ipynb           # Main code        
-└── requierements.txt            # Library with the neccesary libraries
-'''
+>     project-directory/  
+>     │  
+>     ├── chromedriver/                # ChromeDriver executable   
+>           ├──chromedriver.exe  
+>     ├── courses_web_page             # Directory with scrapping results    
+>     ├── InterestingLinks.csv         # CSV file containing URLs for scraping  
+>     ├── WebScrapping.ipynb           # Main code          
+>     └── requierements.txt            # Library with the neccesary libraries
 Notes
 -----
 - Make sure your InterestingLinks.csv file contains the correct URLs to scrape.
@@ -65,6 +63,8 @@ Notes
 
 License
 -------
-This project is licensed under the MIT License - see the LICENSE file for details.
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 
