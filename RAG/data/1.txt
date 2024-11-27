@@ -1,0 +1,17 @@
+Descripción
+Taller introductorio al análisis de datos, en el cual se trabajará con el lenguaje Python, considerando su potencial y usos para el análisis de datos. El taller considera manipulación de datos, visualización y modelación, lo cual permitirá a los y las estudiantes manipular, analizar y presentar datos de acuerdo a distintas necesidades.
+
+Unidades de aprendizaje
+
+
+Análisis de datos: codificar programa en Python, a través de operadores matemáticos y métodos elementales, para generar estadísticas básicas a partir de la información cargada.
+
+Visualización de datos: generar gráficos utilizando Seaborn, utilizando parámetros de acuerdo a necesidades y acorde a la data.
+
+Modelación: codificar modelo de regresión lineal generando un gráfico regplot para entender/interpretar los resultados obtenidos.
+
+Plataformas y software
+
+Google Colaboratory (https://colab.research.google.com/)
+Anaconda (https://www.anaconda.com/)
+Visual Studio Code (https://code.visualstudio.com/)

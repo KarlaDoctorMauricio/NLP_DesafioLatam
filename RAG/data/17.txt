@@ -1,0 +1,4 @@
+¿Qué aprenderás?
+️Introducción a Machine Learning.
+️Uso de Python para construir y aplicar modelos.
+️Casos prácticos y ejemplos reales.
