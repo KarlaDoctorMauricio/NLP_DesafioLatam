@@ -1,4 +1,10 @@
 # Retrieval-Augmented Generation (RAG) Workflow
+## Technologies Used
+
+![Langchain](https://img.shields.io/badge/Powered%20by-Langchain-blue?style=flat&logo=python)
+![Chroma](https://img.shields.io/badge/Powered%20by-Chroma-blue?style=flat&logo=python)
+![Google Cloud](https://img.shields.io/badge/Powered%20by-Google%20Cloud-blue?style=flat&logo=googlecloud)
+
 
 This project demonstrates how to use a **Retrieval-Augmented Generation (RAG)** approach to answer questions based on a collection of course content stored in text files. The system combines **document retrieval** using a vector store and **text generation** with the **Google Generative AI** model to provide context-aware answers to user queries.
 
