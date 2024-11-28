@@ -1,4 +1,0 @@
-Lo que aprenderás:
-  Desde los conceptos básicos de redes neuronales
-  Implementación paso a paso, ¡incluso con Excel!
-  Cómo llevar a Python para proyectos reales

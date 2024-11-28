@@ -1,2 +1,0 @@
-Comenzaremos explorando la historia detrás de React , con una breve historia de su origen en Facebook y la motivación detrás de su creación.
-Discutiremos los principales beneficios de utilizar React, como su enfoque basado en componentes

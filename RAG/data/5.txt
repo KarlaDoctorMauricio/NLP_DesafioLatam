@@ -1,2 +1,0 @@
-¿Quieres aprender a analizar datos y presentarlos de forma interactiva? 
-En esta sesión práctica, aprenderás a crear un dashboard desde su inicio dando tus primeros pasos junto a Power BI, herramienta para crear visualizaciones de datos  . 
